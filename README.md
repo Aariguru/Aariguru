@@ -28,4 +28,4 @@ Built in Godot using GDScript. Features player/enemy/NPC states, smooth movement
 ## 📫 Let’s Connect
 
 - 📧 Email: naariguru@email.com  
-- 🌐 Portfolio: [Aariguru GitHub]((https://aariguru-portfolio.lovable.app/))
+- 🌐 Portfolio: [Aariguru GitHub](https://aariguru-portfolio.lovable.app/)
